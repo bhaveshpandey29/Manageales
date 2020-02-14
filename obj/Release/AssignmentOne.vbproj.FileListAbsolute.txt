@@ -1,0 +1,15 @@
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\bin\Release\AssignmentOne.exe.config
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\bin\Release\AssignmentOne.exe
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\bin\Release\AssignmentOne.pdb
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\bin\Release\AssignmentOne.xml
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\bin\Release\Oracle.ManagedDataAccess.dll
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.vbprojAssemblyReference.cache
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.Form1.resources
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.Resources.resources
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.vbproj.GenerateResource.cache
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.vbproj.CoreCompileInputs.cache
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.vbproj.CopyComplete
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.exe
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.xml
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.pdb
+C:\Users\Bhavesh's PC\source\repos\AssignmentOne\obj\Release\AssignmentOne.Form2.resources
